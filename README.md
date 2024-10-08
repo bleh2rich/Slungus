@@ -1,23 +1,23 @@
 <h1 align="center">✨ Wattyhub Slungus 🎉</h1> 
 <p align="center">
-    <a href="https://www.youtube.com/watch?v=Jhee6bHUsdg" target="_blank">
-        <img src="https://i.imgur.com/HvYspv5_d.webp?maxwidth=760&fidelity=grand" width="550" alt="Showcase video" title="Showcase video">
+    <a href="https://www.youtube.com/watch?v=" target="_blank">
+        <img src="https://i.imgur.com/ZJRWo61_d.webp?maxwidth=760&fidelity=grand" width="550" alt="Showcase video" title="Showcase video">
     </a>
 </p>
-<p align= "center"> <kbd> <img  src="https://i.imgur.com/Gi6SKs4_d.webp?maxwidth=760&fidelity=grand"width="750"> </kbd><br><br>
+<p align= "center"> <kbd> <img  src="https://i.imgur.com/oNuEceG_d.webp?maxwidth=760&fidelity=grand"width="750"> </kbd><br><br>
 
 # DISCORD SERVER INVITE discord.gg/zbgRZxNRKa
     
 
-- 10/7/2024 UPDATE LOG
+- 10/8/2024 UPDATE LOG
   
-> 🔥 Launched
+> 🔥 Launched Slungus
 
-- <a href="https://www.youtube.com/@PrestigedDev">Official AO Wattyhub Developer</a>
+- <a href="https://www.youtube.com/@PrestigedDev">Official Slungus Wattyhub Developer</a>
 
-- Loadstring Arcane Odyssey Wattyhub
+- Loadstring Slungus Wattyhub
 ```
- loadstring(game:HttpGet(('https://raw.githubusercontent.com/bleh2rich/Arcane/refs/heads/main/ArcaneWattyhub.lua'),true))()
+ loadstring(game:HttpGet(('https://raw.githubusercontent.com/bleh2rich/Slungus/refs/heads/main/Slungus.lua'),true))()
 ```
 
 
